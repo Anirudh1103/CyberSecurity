@@ -1,8 +1,4 @@
-#!/usr/bin/env python
 
-# Deauth_Attack Detector Python Tool Version 1.0
-# Developed By Mostafa_Samy
-# Github Link ==>> https://github.com/Mostafa-Samy-97
 
 '''
 this tool will help you to detect any Deauth attacks 
